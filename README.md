@@ -1,11 +1,7 @@
-![I am Frontend Developer](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/407739644_3896722210574661_347246391391518815_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGD5nsihSBS0NmjHatTeZ7sFJqv3cUGTLUUmq_dxQZMtRAWXxDUJKsMlw_cf6nh-jSdpKxkyr9bGyzcGsEI5Gex&_nc_ohc=gH_DMo7XB_0Q7kNvgEG0x54&_nc_ht=scontent.fdac24-5.fna&oh=00_AYCnz49_jpQvCB-Q-xfLn6Oe1ogxF-xsILGPW9UX211xag&oe=668F45C1)
-
+![I am Frontend Developer](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/265805344_3318503751729846_3079227323563945404_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFDDv0zg_1qU-45IxII5bHSmf6LRhTt19OZ_otGFO3X00rPZUng-lvkzMWL3eFKIehFXDSrd4N8mPfqyMT6NV2S&_nc_ohc=Gln0lIh0HjkQ7kNvgEIvtnm&_nc_ht=scontent.fdac24-5.fna&oh=00_AYAWSc7tfo6uJUSiH4-uCw_fwfoovSrILHA74rDQw2c8Hg&oe=668F50F0)
 ### Hi there 👋, I'm Jillur Rahman
 #### I am Frontend Developer
-
-
 Coding is first passionate. Love to learn new skills and tell about anyone it is great happiness.
-
 Skills:  REACT JS / JS / Next JS/ Tailwind CSS/HTML/CSS/Data Structure & Algoritham
 
 - 🔭 I’m currently working on Front End Dev 
@@ -26,4 +22,6 @@ Skills:  REACT JS / JS / Next JS/ Tailwind CSS/HTML/CSS/Data Structure & Algorit
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/jillur984/contributions?format=svg&private=false)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jillur984)  
+
+
 
