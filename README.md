@@ -1,30 +1,37 @@
-![Frontend Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/450385547_4041607969419417_14547202513665793_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF-kAZIG9lbFZvIwZ3RSB3juDFyHUye3Jm4MXIdTJ7cmf--u1eTf3PHS8zyJn1prcBnsNIDcFBLxH907URTH1qB&_nc_ohc=Vu5pt_7rmowQ7kNvgH88sYm&_nc_ht=scontent.fdac24-1.fna&oh=00_AYCdRTD0v9Ggz1DL39aFqNHjnBXmsXJjvyDj1n3dB9E5DQ&oe=66904E95)
+<h1 align="center">Hi 👋, I'm Jillur Rahman</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-### Hi there 👋, I'm Jillur Rahman
-#### Frontend Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jillur984&label=Profile%20views&color=0e75b6&style=flat" alt="jillur984" /> </p>
 
+- 🔭 I’m currently working on [Clinic Management System App](https://github.com/jillur984/clinic-management-system)
 
-Coding is first passionate. Love to learn new skills and tell about anyone it is great happiness.
+- 🌱 I’m currently learning **Node.js,Express.js & MongoDB for Backend**
 
-Skills:  REACT / JS /NEXT/ HTML / CSS/Tailwind CSS
+- 👨‍💻 All of my projects are available at [https://jillur-rahman-portfolio.vercel.app/](https://jillur-rahman-portfolio.vercel.app/)
 
-- 🔭 I’m currently working on React & Next.js 
-- 🌱 I’m currently learning Front End Dev 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with Developer 
-- 💬 Ask me about Web Development 
-- 😄 Pronouns: he 
+- 📝 I regularly write articles on [Front-End Development](Front-End Development)
 
+- 💬 Ask me about **JS,React,Next.**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jillur984)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-jillur-rahman-155793221//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jillurrahman.imon.9)  
+- 📫 How to reach me **jillur.cse.bd@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jillur984)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mohammadjillur5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammadjillur5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jillur2day" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jillur2day" height="30" width="40" /></a>
+<a href="https://fb.com/jillurrahman.imon.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jillurrahman.imon.9" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jillur-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jillur-1" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jillur984&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/jillur984)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jillur984&show_icons=true&locale=en&layout=compact" alt="jillur984" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jillur984)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jillur984&show_icons=true&locale=en" alt="jillur984" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jillur984&" alt="jillur984" /></p>
+
 
 
 
